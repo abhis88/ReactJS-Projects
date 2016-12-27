@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
-Make sure you install Node.js and npm in your system.
+Make sure you install Node.js and npm in your system. Then run below commnad in your command prompt (windows) or terminal (macOS)
 
 git clone project<br>
 cd project<br>
