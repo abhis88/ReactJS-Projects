@@ -2,12 +2,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Make sure you install Node.js and npm in your system.
 
-git clone <project>
-cd <project>
-npm install
+git clone project<br>
+cd project<br>
+npm install<br>
 npm start
 
-You should see the project running at localhost and port 3000. (http://localhost:3000)
+You should see the project running at localhost and port 3000. (http://localhost:3000)<br>
 -----------------------------------------------------------------------------------
 
 Below you will find some information on how to perform common tasks.<br>
